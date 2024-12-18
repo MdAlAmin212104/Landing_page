@@ -8,7 +8,7 @@ const Card = () => {
         <h1 className="p-4 text-2xl text-[#111322] font-bold">For Investors</h1>
         <div className="mx-auto">
           <Image
-            src="/image/logo-card.png"
+            src="/image/Logo-card.png"
             alt="Logo"
             width={100}
             height={100}
@@ -79,7 +79,7 @@ const Card = () => {
         <h1 className="p-4 text-2xl text-[#111322] font-bold">For Businesses</h1>
         <div className="mx-auto">
           <Image
-            src="/image/logo-card.png"
+            src="/image/Logo-card.png"
             alt="Logo"
             width={100}
             height={100}

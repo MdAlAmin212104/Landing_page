@@ -62,7 +62,7 @@ const About = () => {
       </div>
       <div className="md:w-1/2">
         <Image
-          src="/image/image6.png"
+          src="/image/Image6.png"
           alt="Image"
           width={780} // adjust the size as needed
           height={420} // adjust the size as needed

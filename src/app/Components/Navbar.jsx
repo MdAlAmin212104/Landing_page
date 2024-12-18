@@ -64,7 +64,7 @@ const Navbar = () => {
         </div>
         {/* Logo */}
         <a className="btn btn-ghost text-xl">
-          <img src="/logo.png" alt="Logo" className="h-8 w-auto" />
+          <img src="/image/logo_footer.png" alt="Logo" className="h-8 w-auto" />
         </a>
       </div>
 
