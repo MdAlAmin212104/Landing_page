@@ -3,6 +3,7 @@ import About from "./HomePage/About";
 import Banner from "./HomePage/Banner";
 import Card from "./HomePage/Card";
 import CardSection from "./HomePage/CardSection";
+import FaqSection from "./HomePage/FaqSection";
 import Feature from "./HomePage/Feature";
 import Solution from "./HomePage/Solution";
 import Testimonials from "./HomePage/Testimonials";
@@ -19,6 +20,7 @@ export default function Home() {
       <Works/>
       <Card/>
       <CardSection/>
+      <FaqSection/>
     </div>
   );
 }
