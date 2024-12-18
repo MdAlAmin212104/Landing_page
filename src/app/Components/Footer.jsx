@@ -3,11 +3,11 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className="container mx-auto text-black">
+    <div className="container mx-auto text-black pl-4">
       <footer className="footer py-16 text-[#111322]">
         <aside>
           <Image src='/image/logo_footer.png' alt="logo" width={300} height={300}/>
-          <p>
+          <p className="mt-4">
             ACME Industries Ltd.
             <br />
             Providing reliable tech since 1992

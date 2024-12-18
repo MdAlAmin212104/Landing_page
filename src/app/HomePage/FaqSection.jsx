@@ -4,10 +4,10 @@ const FaqSection = () => {
   return (
     <div className="container mx-auto py-10">
       <h1 className="text-[#21763F] text-center my-4">Faq</h1>
-      <h1 className="text-5xl text-center font-semibold text-[#111322] mb-10">
+      <h1 className="md:text-5xl text-3xl text-center font-semibold text-[#111322] mb-10">
         Frequently asked questions
       </h1>
-      <div className="text-center my-4 space-x-6">
+      <div className="text-center  my-4 md:space-x-6 hidden md:flex">
         <button className="btn bg-[#005397] text-white hover:text-white rounded-full px-6 py-2 font-medium hover:bg-[#003366]">
           Investor
         </button>

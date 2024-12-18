@@ -17,10 +17,6 @@ const Solution = () => {
         <h1 className="text-5xl font-bold mt-4 text-[#00233F]">
           Our Finance Solutions
         </h1>
-        {/* <div className="mt-6">
-          
-          <h1 className="text-xl font-medium text-[#005397]">Business Expansion</h1>
-        </div> */}
         <hr className="text-[#DCDFEA] mt-6"/>
         <div className="collapse">
           <input type="radio" name="my-accordion-1" defaultChecked />
