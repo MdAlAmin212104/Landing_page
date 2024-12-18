@@ -3,7 +3,8 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className="container mx-auto text-black pl-4">
+    <div>
+        <div className="container mx-auto text-black pl-4">
       <footer className="footer py-16 text-[#111322]">
         <aside>
           <Image src='/image/logo_footer.png' alt="logo" width={300} height={300}/>
@@ -59,7 +60,9 @@ const Footer = () => {
   <Image src="/image/code.png" alt="facebook" width={220} height={110}/>
   </nav>
 </footer>
-<footer className="footer bg-[#EFF1F5] py-4 px-2">
+
+    </div>
+    <footer className="footer bg-[#f3f7fb] text-[black] py-4 px-2 container mx-auto">
   <aside className="">
     <h1>Copyright RSIN@2024 . All rights reserved. V-0.1.14</h1>
   </aside>

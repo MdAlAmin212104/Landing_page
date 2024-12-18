@@ -7,7 +7,7 @@ const FaqSection = () => {
       <h1 className="md:text-5xl text-3xl text-center font-semibold text-[#111322] mb-10">
         Frequently asked questions
       </h1>
-      <div className="text-center  my-4 md:space-x-6 hidden md:flex">
+      <div className="text-center mx-auto my-4 space-x-6 hidden md:flex justify-center">
         <button className="btn bg-[#005397] text-white hover:text-white rounded-full px-6 py-2 font-medium hover:bg-[#003366]">
           Investor
         </button>
