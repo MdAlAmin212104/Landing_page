@@ -3,7 +3,7 @@ import React from "react";
 
 const Card = () => {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6 container mx-auto">
       <div className="card bg-white mt-4 pl-4">
         <h1 className="p-4 text-2xl text-[#111322] font-bold">For Investors</h1>
         <div className="mx-auto">

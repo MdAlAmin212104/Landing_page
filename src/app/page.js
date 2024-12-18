@@ -4,6 +4,7 @@ import Banner from "./HomePage/Banner";
 import Card from "./HomePage/Card";
 import CardSection from "./HomePage/CardSection";
 import Feature from "./HomePage/Feature";
+import Solution from "./HomePage/Solution";
 import Testimonials from "./HomePage/Testimonials";
 import Works from "./HomePage/Works";
 
@@ -13,6 +14,7 @@ export default function Home() {
       <Banner/>
       <Feature/>
       <About/>
+      <Solution/>
       <Testimonials/>
       <Works/>
       <Card/>

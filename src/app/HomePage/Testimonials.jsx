@@ -5,6 +5,7 @@ import ReviewCard from '../Components/ReviewCard';
 const Testimonials = () => {
     return (
         <div className='bg-[#005397] py-32 px-6'>
+            <div className='container mx-auto'>
             <div className='grid md:grid-cols-4 grid-cols-2 '>
             <div>
                 <h1 className='text-xl text-[#7CE4A1]'>Testimonial</h1>
@@ -30,6 +31,7 @@ const Testimonials = () => {
                 <ReviewCard/>
                 <ReviewCard/>
                 <ReviewCard/>
+            </div>
             </div>
         </div>
     );
