@@ -62,12 +62,10 @@ const Solution = () => {
           </div>
         </div>
         <div className="flex gap-6 p-6">
-      {/* Start Investing Button */}
       <button className="btn bg-[#005397] text-white  rounded-full px-6 py-2 font-medium hover:bg-[#003366]">
         Get Started
       </button>
 
-      {/* Play Button with Image */}
       <button className="btn bg-transparent mr-4 flex items-center gap-2 rounded-full text-black">
         <span>Learn more</span>
       </button>
